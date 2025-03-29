@@ -1,6 +1,6 @@
 {
   "name": "node-circuit-breaker-js",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "circuit breaker",
   "main": "dist/circuit-breaker.decorator.js",
   "types": "dist/circuit-breaker.decorator.d.ts",
